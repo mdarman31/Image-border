@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+    max-width: 400px;
+    object-fit: cover;
+    vertical-align: middle;
+    
+}
+
+.wrapper {
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5rem;
+
+}
+.intro {
+    flex: 1;
+}
+body{
+    background-color: rgb(111, 25, 47);
+}
+h1
+{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
